@@ -5,8 +5,8 @@ Video-based Automatic License Plate Recognition (ALPR) system
 
 Usage:
     python vr-alpr.py {optinal arguments}
-    --line_height: line height position             [defalt:  800]
-    --interval: interval between VR images (frames) [default: 600]
+    --line_height: line height position             [defalt:  1000]
+    --interval: interval between VR images (frames) [default: 900]
     
     The video path is prompted during execution.
 '''
