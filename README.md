@@ -6,9 +6,9 @@ This repository is the official implementation of **Efficient License Plate Reco
 
 ![Alt Text](https://i.imgur.com/NhFnMvW.png)
 
-The work participated in [**CVPR 2024**](https://cvpr.thecvf.com/) - [LatinX in CV Undergraduate Consortium](https://www.latinxinai.org/cvpr-2024): Work in Progress Paper [PDF](https://drive.google.com/file/d/1ERIpwWajpBXPXiLKC9gUW9ulL1JeXA82/view?usp=sharing)
+Link to the FINAL Paper: [PDF](https://drive.google.com/file/d/1u7Ts3SMMgrtBTOAFP6qwAIi9_IT2X-_q/view?usp=sharing)
 
-Link to the paper: [PDF](https://drive.google.com/file/d/1u7Ts3SMMgrtBTOAFP6qwAIi9_IT2X-_q/view?usp=sharing)
+The work participated in [**CVPR 2024**](https://cvpr.thecvf.com/) - [LatinX in CV Undergraduate Consortium](https://www.latinxinai.org/cvpr-2024): Work in Progress Paper [PDF](https://drive.google.com/file/d/1ERIpwWajpBXPXiLKC9gUW9ulL1JeXA82/view?usp=sharing)
 
 
 <br>
