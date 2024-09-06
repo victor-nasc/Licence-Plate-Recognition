@@ -6,13 +6,12 @@ This repository is the official implementation of **Efficient License Plate Reco
 
 ![Alt Text](https://i.imgur.com/NhFnMvW.png)
 
-Link to the FINAL Paper: [PDF](https://drive.google.com/file/d/1u7Ts3SMMgrtBTOAFP6qwAIi9_IT2X-_q/view?usp=sharing)
-
-<br>
-
-The work participated in [**CVPR 2024**](https://cvpr.thecvf.com/) - [LatinX in CV Undergraduate Consortium](https://www.latinxinai.org/cvpr-2024): Work in Progress Paper [PDF](https://drive.google.com/file/d/1ERIpwWajpBXPXiLKC9gUW9ulL1JeXA82/view?usp=sharing)
+The work participated in 
+- [**CVPR 2024**](https://cvpr.thecvf.com/) - [LatinX in CV Undergraduate Consortium](https://www.latinxinai.org/cvpr-2024): Work in Progress paper [PDF](https://drive.google.com/file/d/1ERIpwWajpBXPXiLKC9gUW9ulL1JeXA82/view?usp=sharing)
+- [**SIBIGRAPI 2024**](https://sibgrapi.sbc.org.br/2024/): Workshop of Undergraduate Works full paper [PDF](https://drive.google.com/file/d/1u7Ts3SMMgrtBTOAFP6qwAIi9_IT2X-_q/view?usp=sharing)
 
 
+![Alt Text](https://s5.ezgif.com/tmp/ezgif-5-fd607c5af9.gif)
 <br>
 
 
@@ -66,6 +65,21 @@ python3 ala-alpr.py --OPTIONS
 #   --hide: hide the video from being shown realtime         [default: True]
 
 #    The video path is prompted during execution.
+```
+
+
+
+<br>
+
+
+
+## Citation
+
+If you find the code useful in your research, please consider citing our paper:
+
+```
+...
+
 ```
 
 
