@@ -11,7 +11,7 @@ The work participated in
 - [**SIBIGRAPI 2024**](https://sibgrapi.sbc.org.br/2024/): Workshop of Undergraduate Works full paper [PDF](https://drive.google.com/file/d/1u7Ts3SMMgrtBTOAFP6qwAIi9_IT2X-_q/view?usp=sharing)
 
 
-![Alt Text](https://s5.ezgif.com/tmp/ezgif-5-fd607c5af9.gif)
+
 <br>
 
 
@@ -81,5 +81,7 @@ If you find the code useful in your research, please consider citing our paper:
 ...
 
 ```
+
+**Contact**: victor_nascimento@usp.br 
 
 
