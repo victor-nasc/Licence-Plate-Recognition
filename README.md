@@ -78,8 +78,20 @@ python3 ala-alpr.py --OPTIONS
 If you find the code useful in your research, please consider citing our paper:
 
 ```
-...
-
+@inproceedings{sibgrapi_estendido,
+ author = {Victor Ribeiro and Nina Hirata},
+ title = { Efficient License Plate Recognition in Videos Using Visual Rhythm and Accumulative Line Analysis},
+ booktitle = {Anais Estendidos da XXXVII Conference on Graphics, Patterns and Images},
+ location = {Manaus/AM},
+ year = {2024},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {159--162},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/sibgrapi.est.2024.31664},
+ url = {https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/31664}
+}
 ```
 
 **Contact**: victor_nascimento@usp.br 
